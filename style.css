@@ -19,8 +19,7 @@
 }
 body {
   padding: 4em 1em;
-  height: 100vh;
-  min-height: 900px;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
